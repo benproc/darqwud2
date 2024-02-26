@@ -26,7 +26,7 @@ sections:
          # icon: academicons/arxiv
           #url: https://arxiv.org/abs/2304.01852
         - text: Listen on Spotify
-          icon: spotify
+          icon: spotify.svg
           url: https://open.spotify.com/artist/12lcNetWkDskLYJAkGfXGH?si=0E3n5NV6RV2HFbW5YqEjmw
         - text: Listen on SoundCloud
           icon: soundcloud
