@@ -26,9 +26,13 @@ sections:
          # icon: academicons/arxiv
           #url: https://arxiv.org/abs/2304.01852
         - text: Listen on Spotify
-          icon: brands/spotify
+          icon: spotify
           url: https://open.spotify.com/artist/12lcNetWkDskLYJAkGfXGH?si=0E3n5NV6RV2HFbW5YqEjmw
         - text: Listen on SoundCloud
-          icon: brands/soundcloud
+          icon: soundcloud
           url: https://soundcloud.com/darqwud
+        - text: Listen on Apple Music
+          icon: apple
+          url: https://music.apple.com/us/artist/darqwud/1688288143
+          ##need to fix the icons
 ---
