@@ -3,7 +3,7 @@
 title: darqwud
 
 # Name pronunciation (optional)
-name_pronunciation: Dark Wood
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: darq
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of breaks and bleeps
+role: Electronic Music
 
 # Organizations/Affiliations to show in About widget
 #organizations:
