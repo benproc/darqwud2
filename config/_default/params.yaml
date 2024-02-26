@@ -36,6 +36,7 @@ header:
 footer:
   copyright:
     notice: '© {year} Me'
+  i_am_a_sponsor: true
 
 # Localization
 locale:
